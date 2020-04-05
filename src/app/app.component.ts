@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'module8';
+  clicked = false;
+  users=['jdow','asmith','jdoe'];
 }
